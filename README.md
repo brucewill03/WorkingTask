@@ -13,4 +13,4 @@ This website will serve as site where you can assign task to your day. You will 
 # Website 
 https://brucewill03.github.io/WorkingTask/
 
-![ScreenShot1](https://github.com/brucewill03/WorkingTask/raw/main/Images/ScreenShot1.png)
+![Screenshot1](https://github.com/brucewill03/WorkingTask/raw/main/Images/Screenshot1.png)
