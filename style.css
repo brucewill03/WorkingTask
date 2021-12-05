@@ -2,7 +2,7 @@ body {
   font-family: fantasy;
   font-size: 16px;
   line-height: 1;
-  color: #666666;
+  color: 
 }
 
 h1 {
@@ -56,18 +56,19 @@ textarea {
 }
 
 .present {
-  background-color: greenyellow
-  color: blue;
+  background-color: red;
+  color: white;
 }
 
 .future {
-  background-color: crimson;
+  background-color: royalblue
+  
 }
 
 .saveBtn {
-  background-color: rgba(99, 112, 129, 0.75);
+  background-color: gray;
   border: none;
-  color: #ffffff; 
+  
 }
 
 .saveBtn:hover {
